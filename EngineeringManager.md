@@ -4,13 +4,13 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 5 | Yes | [EM5 - Engineering Manager 5](#em5---engineering-manager-5) |
-| 6 | Yes | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
-| 7 | Yes | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
+| 5 | Yes | [M1 - Engineering Manager](#m1---engineering-manager) |
+| 6 | Yes | [M2 - Engineering Manager](#m2---engineering-manager) |
+| 7 | Yes | [M3 - Engineering Manager](#m3---engineering-manager) |
 
 If you have other managers as direct reports, you might want to read the [Managing Managers](Managing-Managers.md) section since it provides more information about the "Manages People" aspect of the role.
 
-## EM5 - Engineering Manager 5
+## M1 - Engineering Manager 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-5-dark.png">
@@ -24,7 +24,7 @@ If you have other managers as direct reports, you might want to read the [Managi
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## EM6 - Engineering Manager 6
+## M2 - Engineering Manager
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-6-dark.png">
@@ -38,7 +38,7 @@ If you have other managers as direct reports, you might want to read the [Managi
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## EM7 - Engineering Manager 7
+## M3 - Engineering Manager
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
