@@ -4,15 +4,15 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 1 | No | [SDE1 - Sofware Development Engineer  1](#sde1---developer-1) |
-| 2 | No | [SDE2 - Sofware Development Engineer  2](#sde2---developer-2) |
-| 3 | Yes | [SDE3 - Sofware Development Engineer  3](#sde3---developer-3) |
-| 4 | Yes | [SDE4 - Sofware Development Engineer  4](#sde4---developer-4) |
+| 1 | No | [SDE1 - Sofware Development Engineer  1](#sde1---Software Development Engineer-1) |
+| 2 | No | [SDE2 - Sofware Development Engineer  2](#sde2---Software Development Engineer-2) |
+| 3 | Yes | [SDE3 - Sofware Development Engineer  3](#sde3---Software Development Engineer-3) |
+| 4 | Yes | [SDE4 - Sofware Development Engineer  4](#sde4---Software Development Engineer-4) |
 | 5 | Yes | [SDE4 - Architect](#architect---architect) |
 | 6 | Yes | [SDE5 - Senior Architect](#senior arch---senior architect) |
 | 7 | Yes | [SDE7 - Principal Architect](#principal arch---principal architect) |
 
-## D1 - Developer 1
+## SDE1 - Software Development Engineer 1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
@@ -26,7 +26,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D2 - Developer 2
+## SDE2 - Software Development Engineer 2
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
@@ -40,7 +40,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D3 - Developer 3
+## SDE3 - Software Development Engineer 3
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
@@ -54,7 +54,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - Developer 4
+## SDE4 - Software Development Engineer 4
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
@@ -68,7 +68,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - Developer 5
+## Architect
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
@@ -82,7 +82,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - Developer 6
+## Senior Architect
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
@@ -96,7 +96,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## D7 - Developer 7
+## Principal Architect
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
