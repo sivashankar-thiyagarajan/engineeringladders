@@ -4,10 +4,10 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 1 | No | [D1 - Developer 1](#d1---developer-1) |
-| 2 | No | [D2 - Developer 2](#d2---developer-2) |
-| 3 | No | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Yes | [D4 - Developer 4](#d4---developer-4) |
+| 1 | No | [SDE1 - Sofware Development Engineer  1](#sde1---developer-1) |
+| 2 | No | [SDE2 - Sofware Development Engineer  2](#sde2---developer-2) |
+| 3 | Yes | [SDE3 - Sofware Development Engineer  3](#sde3---developer-3) |
+| 4 | Yes | [SDE4 - Sofware Development Engineer  4](#sde4---developer-4) |
 | 5 | Yes | [D5 - Developer 5](#d5---developer-5) |
 | 6 | Yes | [D6 - Developer 6](#d6---developer-6) |
 | 7 | Yes | [D7 - Developer 7](#d7---developer-7) |
