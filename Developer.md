@@ -8,9 +8,9 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 2 | No | [SDE2 - Sofware Development Engineer  2](#sde2---developer-2) |
 | 3 | Yes | [SDE3 - Sofware Development Engineer  3](#sde3---developer-3) |
 | 4 | Yes | [SDE4 - Sofware Development Engineer  4](#sde4---developer-4) |
-| 5 | Yes | [SDE4 - Architect](#architect) |
-| 6 | Yes | [SDE5 - Senior Architect](#senior arch-) |
-| 7 | Yes | [SDE7 - Principal Architect](#principal arch) |
+| 5 | Yes | [SDE4 - Architect](#architect---architect) |
+| 6 | Yes | [SDE5 - Senior Architect](#senior arch---senior architect) |
+| 7 | Yes | [SDE7 - Principal Architect](#principal arch---principal architect) |
 
 ## D1 - Developer 1
 
