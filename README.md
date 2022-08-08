@@ -129,9 +129,6 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 
 # Other Pages
 
-* [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Individual Contributors**](Developer.md)
 * [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
